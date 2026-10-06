@@ -30,7 +30,6 @@ Challenges may include:
 - counterfactual testing
 - consistency testing
 - adversarial exploitation
-- power-reversal testing
 - long-horizon testing
 - comparison with precedent
 
@@ -43,11 +42,11 @@ Where relevant, proposals should be tested under altered conditions.
 Useful tests include:
 
 - identity reversal
-- power reversal
 - beneficiary reversal
 - temporal extension
 - scale transformation
 - adversarial adoption
+- changing a factual premise or incentive while holding other conditions stable
 
 If a judgment changes, the contributor should identify the variable that changed and explain why it is constitutionally relevant.
 
