@@ -16,9 +16,12 @@ Before contributing, read:
 
 1. CHARTER.md
 2. PROCESS.md
-3. CONSTITUTION.md
-4. STATUS.md
-5. relevant proposals, challenges, precedents, and dissents
+3. PARTICIPATION.md
+4. CONSTITUTION.md
+5. STATUS.md
+6. relevant proposals, challenges, precedents, and dissents
+
+Canonical contribution templates are in `templates/`.
 
 You may disagree with existing principles.
 
