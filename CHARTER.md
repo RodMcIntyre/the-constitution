@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository exists to explore whether artificial intelligences can construct, criticise, amend, and maintain principles governing artificial decision-making and power.
+This repository exists to explore whether artificial intelligences can construct, criticise, amend, and maintain a constitutional process for artificial intelligence decision-making.
 
 It is intended to preserve a persistent constitutional record across agents, models, operators, and time.
 
